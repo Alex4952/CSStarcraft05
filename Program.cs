@@ -42,6 +42,7 @@ namespace CSStarcraft05
 				unit.Attack();
 			}
 			// 인공지능 적을 만듭시다.
+			// 스레드를 이용해서 만드는것도 재미있을 듯.
 		}
 	}
 }
